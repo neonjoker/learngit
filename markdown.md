@@ -8,7 +8,8 @@ print('hello world')
 ## table
 try next time
 ## math
->经验证，github不支持Mathjax
+> 经验证，github不支持Mathjax
+
 $A_n=B_n+C_n$
 $\begin{equation}
 	\sum+{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
